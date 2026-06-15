@@ -1,0 +1,39 @@
+{
+   "processing_props": {
+      "isMoving": false,
+      "backgroundType": "mean_excluded",
+      "backgroundProp1": 1.0,
+      "butterworthCutoff": 0.2,
+      "rescaleIntens": [
+         1.0,
+         1.0
+      ],
+      "useMedian": false,
+      "medianSize": 3,
+      "useAbs": true,
+      "invertVal": false,
+      "timeFunc": true,
+      "window": [
+         0,
+         0,
+         0,
+         0
+      ]
+   },
+   "segmentation_props": {
+      "stationaryImgType": "median",
+      "excludeImg": true,
+      "excludeMinSpan": 50,
+      "numLevels": 5,
+      "numBins": 25,
+      "initMaskLevels": [
+         3,
+         3
+      ],
+      "remvPepperThresh": 64,
+      "fillHolesThresh": 600,
+      "sepOpeningRad": 2.0,
+      "overlapThres": 0.4,
+      "expDilationRad": 5.0
+   }
+}
