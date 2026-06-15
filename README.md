@@ -1,6 +1,6 @@
 # MOSAIC   
 
-<img width="66" height="53" alt="image" src="https://github.com/user-attachments/assets/6b4c3be1-dd28-4a74-8813-a2bea1dc341f" />
+<img width="66" height="53" alt="image" src="https://github.com/user-attachments/assets/779bf708-413e-436a-8ace-0df89a4932ec" />
 
 MOSAIC, or Moving Object Segmentation under Adverse Imaging Conditions, is a Python library (and soon to be application) that allows for segmentation of high-speed images when imaging conditions change or are unknown. The output is a binary mask of the region that is of interest.
 ## Installation
