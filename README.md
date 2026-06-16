@@ -27,4 +27,6 @@ A beta of the gui is available for use, but is in an experimental state. Tkinter
 
 ## Citation
 
-This work has been submitted to the International Symposium on Flexible Automation 2026. A full peer-reviewed publication is expected in the coming months. In the meantime, please check back to this GitHub page (star it!) for updated DOI information. An arXiv link should be live by June 20th. Thank you for your patience!
+This work has been submitted to the International Symposium on Flexible Automation 2026. A full peer-reviewed publication is expected in the coming months. In the meantime, please check back to this GitHub page (star it!) for updated DOI information. 
+
+See the arXiv link for the preprint of the paper! https://doi.org/10.48550/arXiv.2606.16186
