@@ -2,13 +2,13 @@
    "processing_props": {
     "isMoving": false,
     "window": [-100, 150, 200, 250],
-    "backgroundType": "median_all",
+    "backgroundType": "uniform",
     "backgroundProp1": 10,
     "useAbs": false,
-    "invertVal": true,
+    "invertVal": false,
     "butterworthCutoff": 0.2,
-    "rescaleIntens": [3, 3],
-    "useMedian": false,
+    "rescaleIntens": [1, 1],
+    "useMedian": true,
     "medianSize": 3,
     "timeFunc": true
    } ,
@@ -16,11 +16,11 @@
       "stationaryImgType": "median",
       "excludeImg": false,
       "numLevels": 5,
-      "numBins": 50,
-      "initPercThresh": [3, 3],
+      "numBins": 25,
+      "initMaskLevels": [3, 3, 1],
       "fillHolesThresh": 600,
       "sepOpeningRad": 2,
-      "overlapThres": 0.4,
+      "overlapThres": 0.1,
       "expDilationRad": 5
    }
    
